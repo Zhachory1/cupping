@@ -11,4 +11,9 @@ I'M MAKING MY OWN!
 
 ## WEBSITE
 
+## ANALYTICS
+
 ## CUPPING PROCEDURE
+
+Feel free to contribute and use under the Mozilla Public License 2.0
+
